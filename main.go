@@ -8,7 +8,7 @@ func main(){
 	fmt.Scan(&n)
 	var e float64 = 0
 
-    for i:=0; i<n; i++{
+    for i:=0; i<=n; i++{
 		var j float64 = float64(i)
 		
         var factorial float64 = 1 
